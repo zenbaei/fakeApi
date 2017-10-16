@@ -2,7 +2,7 @@
 	"crazyAir": [
 		{
 			"airline": "KLM",
-			"price": 200.22,
+			"price": 155.22,
 			"cabinclass": "E",
 			"departureAirportCode": "AMS",
 			"destinationAirportCode": "LHR",
@@ -11,7 +11,7 @@
 		},
 		{
 			"airline": "Air France",
-			"price": 180.00,
+			"price": 250.00,
 			"cabinclass": "B",
 			"departureAirportCode": "AMS",
 			"destinationAirportCode": "LHR",
