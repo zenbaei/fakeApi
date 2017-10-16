@@ -11,7 +11,7 @@
 		},
 		{
 			"airline": "Air France",
-			"price": 250.00,
+			"price": 180.00,
 			"cabinclass": "B",
 			"departureAirportCode": "AMS",
 			"destinationAirportCode": "LHR",
